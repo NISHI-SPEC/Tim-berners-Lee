@@ -40,35 +40,3 @@ font-size:21px;}
     margin: 8px auto;
 background-color: black;
 }
-.menu{
-    list-style: none;
-    position: absolute;
-    top: 10px;
-    right: 30px;
-    cursor: pointer;
-    z-index: 10;
-}       
-.links{
-    float: left;
-     color: darkcyan;
-    padding: 9px;
-    font-family: fantasy;
-    font-size: 20px;
-}
-.links:hover{
-    background-color: dodgerblue;
-}
-#name{font-family: 'Akaya Kanadaka', cursive;}
-a{
-    text-decoration: none;
-}
-.article:hover{
-    color: deeppink;
-}
-
-
-
-
-
-
-
